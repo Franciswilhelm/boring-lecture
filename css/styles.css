@@ -1,8 +1,10 @@
-h2.intro {}
+h2.intro {
+  font-style:italic;
+}
 
 p.intro {
-
+  font-style:italic;
 }
 img.intro {
-
+  border:1px solid black;
 }
